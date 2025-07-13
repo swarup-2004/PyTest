@@ -1,5 +1,3 @@
----
-
 ### 🧪 What is a test?
 
 A **test** checks if something in your code is **working the way you expect**.
